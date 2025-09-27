@@ -1,0 +1,2 @@
+old分支是一套ros系统拖动一个mcu运动的脚本
+启动roslaunch simple_hybrid_joint_control bringup.launch
