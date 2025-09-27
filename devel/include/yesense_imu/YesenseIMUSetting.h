@@ -1,0 +1,1 @@
+/home/ludan/old_ws/devel/.private/yesense_imu/include/yesense_imu/YesenseIMUSetting.h

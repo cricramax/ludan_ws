@@ -1,0 +1,1 @@
+/home/ludan/old_ws/devel/.private/yesense_imu/share/gennodejs/ros/yesense_imu/msg/YesenseIMUSetting.js

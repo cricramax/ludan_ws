@@ -1,0 +1,8 @@
+prefix=/home/ludan/old_ws/install
+
+Name: simple_hybrid_joint_controller
+Description: Description of simple_hybrid_joint_controller
+Version: 0.0.1
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: roscpp controller_interface hardware_interface pluginlib std_msgs legged_common

@@ -1,0 +1,5 @@
+simple_hybrid_joint_controller
+/home/ludan/old_ws/devel/.private/simple_hybrid_joint_controller/lib/libsimple_hybrid_joint_controller.so /home/ludan/old_ws/devel/lib/libsimple_hybrid_joint_controller.so
+/home/ludan/old_ws/devel/.private/simple_hybrid_joint_controller/lib/pkgconfig/simple_hybrid_joint_controller.pc /home/ludan/old_ws/devel/lib/pkgconfig/simple_hybrid_joint_controller.pc
+/home/ludan/old_ws/devel/.private/simple_hybrid_joint_controller/share/simple_hybrid_joint_controller/cmake/simple_hybrid_joint_controllerConfig.cmake /home/ludan/old_ws/devel/share/simple_hybrid_joint_controller/cmake/simple_hybrid_joint_controllerConfig.cmake
+/home/ludan/old_ws/devel/.private/simple_hybrid_joint_controller/share/simple_hybrid_joint_controller/cmake/simple_hybrid_joint_controllerConfig-version.cmake /home/ludan/old_ws/devel/share/simple_hybrid_joint_controller/cmake/simple_hybrid_joint_controllerConfig-version.cmake

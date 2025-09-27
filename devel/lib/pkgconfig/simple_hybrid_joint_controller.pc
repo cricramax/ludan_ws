@@ -1,0 +1,1 @@
+/home/ludan/old_ws/devel/.private/simple_hybrid_joint_controller/lib/pkgconfig/simple_hybrid_joint_controller.pc

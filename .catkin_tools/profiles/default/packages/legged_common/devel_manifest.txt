@@ -1,0 +1,4 @@
+legged_common
+/home/ludan/old_ws/devel/.private/legged_common/lib/pkgconfig/legged_common.pc /home/ludan/old_ws/devel/lib/pkgconfig/legged_common.pc
+/home/ludan/old_ws/devel/.private/legged_common/share/legged_common/cmake/legged_commonConfig.cmake /home/ludan/old_ws/devel/share/legged_common/cmake/legged_commonConfig.cmake
+/home/ludan/old_ws/devel/.private/legged_common/share/legged_common/cmake/legged_commonConfig-version.cmake /home/ludan/old_ws/devel/share/legged_common/cmake/legged_commonConfig-version.cmake

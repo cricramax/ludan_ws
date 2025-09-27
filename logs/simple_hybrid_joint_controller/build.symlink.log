@@ -1,0 +1,4 @@
+Symlinking /home/ludan/old_ws/devel/lib/libsimple_hybrid_joint_controller.so
+Symlinking /home/ludan/old_ws/devel/lib/pkgconfig/simple_hybrid_joint_controller.pc
+Symlinking /home/ludan/old_ws/devel/share/simple_hybrid_joint_controller/cmake/simple_hybrid_joint_controllerConfig.cmake
+Symlinking /home/ludan/old_ws/devel/share/simple_hybrid_joint_controller/cmake/simple_hybrid_joint_controllerConfig-version.cmake

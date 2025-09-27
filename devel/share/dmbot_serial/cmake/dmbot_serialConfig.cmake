@@ -1,0 +1,1 @@
+/home/ludan/old_ws/devel/.private/dmbot_serial/share/dmbot_serial/cmake/dmbot_serialConfig.cmake

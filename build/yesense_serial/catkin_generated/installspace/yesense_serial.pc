@@ -1,0 +1,8 @@
+prefix=/home/ludan/old_ws/install
+
+Name: yesense_serial
+Description: Description of yesense_serial
+Version: 1.2.1
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -lyesense_serial -lrt -lpthread
+Requires: 

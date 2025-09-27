@@ -1,0 +1,4 @@
+Symlinking /home/ludan/old_ws/devel/lib/right_arm_hw/ftj_to_moveJ_bridge
+Symlinking /home/ludan/old_ws/devel/lib/pkgconfig/right_arm_hw.pc
+Symlinking /home/ludan/old_ws/devel/share/right_arm_hw/cmake/right_arm_hwConfig-version.cmake
+Symlinking /home/ludan/old_ws/devel/share/right_arm_hw/cmake/right_arm_hwConfig.cmake

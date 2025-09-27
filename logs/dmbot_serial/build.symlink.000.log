@@ -1,0 +1,12 @@
+Symlinking /home/ludan/old_ws/devel/lib/libdmbot_serial.so
+Symlinking /home/ludan/old_ws/devel/lib/dmbot_serial/test_motor
+Symlinking /home/ludan/old_ws/devel/lib/python3/dist-packages/dmbot_serial/__init__.py
+Symlinking /home/ludan/old_ws/devel/lib/python3/dist-packages/dmbot_serial/cfg/__init__.py
+Symlinking /home/ludan/old_ws/devel/lib/python3/dist-packages/dmbot_serial/cfg/my_cfgConfig.py
+Symlinking /home/ludan/old_ws/devel/lib/pkgconfig/dmbot_serial.pc
+Symlinking /home/ludan/old_ws/devel/include/dmbot_serial/my_cfgConfig.h
+Symlinking /home/ludan/old_ws/devel/share/dmbot_serial/cmake/dmbot_serialConfig-version.cmake
+Symlinking /home/ludan/old_ws/devel/share/dmbot_serial/cmake/dmbot_serialConfig.cmake
+Symlinking /home/ludan/old_ws/devel/share/dmbot_serial/docs/my_cfgConfig-usage.dox
+Symlinking /home/ludan/old_ws/devel/share/dmbot_serial/docs/my_cfgConfig.wikidoc
+Symlinking /home/ludan/old_ws/devel/share/dmbot_serial/docs/my_cfgConfig.dox

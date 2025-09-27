@@ -1,0 +1,1 @@
+/home/ludan/old_ws/devel/.private/yesense_imu/lib/python3/dist-packages/yesense_imu/msg/_YesenseImuLocation.py

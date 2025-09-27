@@ -1,0 +1,1 @@
+/home/ludan/old_ws/devel/.private/right_arm_moveit_config/share/right_arm_moveit_config/cmake/right_arm_moveit_configConfig-version.cmake

@@ -1,0 +1,8 @@
+prefix=/home/ludan/old_ws/install
+
+Name: legged_dm_description
+Description: Description of legged_dm_description
+Version: 1.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

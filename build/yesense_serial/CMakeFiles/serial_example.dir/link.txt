@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/serial_example.dir/examples/serial_example.cc.o  -o /home/ludan/old_ws/devel/.private/yesense_serial/lib/yesense_serial/serial_example  -Wl,-rpath,/home/ludan/old_ws/devel/.private/yesense_serial/lib /home/ludan/old_ws/devel/.private/yesense_serial/lib/libyesense_serial.so -lrt -lpthread 

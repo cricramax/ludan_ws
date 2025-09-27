@@ -1,0 +1,4 @@
+wanren_arm
+/home/ludan/old_ws/devel/.private/wanren_arm/lib/pkgconfig/wanren_arm.pc /home/ludan/old_ws/devel/lib/pkgconfig/wanren_arm.pc
+/home/ludan/old_ws/devel/.private/wanren_arm/share/wanren_arm/cmake/wanren_armConfig.cmake /home/ludan/old_ws/devel/share/wanren_arm/cmake/wanren_armConfig.cmake
+/home/ludan/old_ws/devel/.private/wanren_arm/share/wanren_arm/cmake/wanren_armConfig-version.cmake /home/ludan/old_ws/devel/share/wanren_arm/cmake/wanren_armConfig-version.cmake

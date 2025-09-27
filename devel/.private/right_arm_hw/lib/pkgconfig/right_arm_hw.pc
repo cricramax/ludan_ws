@@ -1,0 +1,8 @@
+prefix=/home/ludan/old_ws/devel/.private/right_arm_hw
+
+Name: right_arm_hw
+Description: Description of right_arm_hw
+Version: 0.1.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
