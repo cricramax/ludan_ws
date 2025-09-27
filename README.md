@@ -1,0 +1,2 @@
+这个版本可以实现一套ros1 noetic控制多个mcu 目前是两个
+启动的时候启动multi_bringup.launch就可以了
