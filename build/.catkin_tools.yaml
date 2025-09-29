@@ -1,0 +1,6 @@
+devel_space: /home/ludan/old_ws/devel
+install: false
+install_space: /home/ludan/old_ws/install
+profile: default
+source_space: /home/ludan/old_ws/src
+workspace: /home/ludan/old_ws

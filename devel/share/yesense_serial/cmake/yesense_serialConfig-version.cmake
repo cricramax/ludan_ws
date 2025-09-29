@@ -1,0 +1,1 @@
+/home/ludan/old_ws/devel/.private/yesense_serial/share/yesense_serial/cmake/yesense_serialConfig-version.cmake

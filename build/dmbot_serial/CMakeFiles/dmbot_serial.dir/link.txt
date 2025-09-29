@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC   -shared -Wl,-soname,libdmbot_serial.so -o /home/ludan/old_ws/devel/.private/dmbot_serial/lib/libdmbot_serial.so CMakeFiles/dmbot_serial.dir/src/robot_connect.cpp.o 

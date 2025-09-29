@@ -1,0 +1,6 @@
+yesense_ros/rosserial
+/home/ludan/old_ws/devel/.private/yesense_serial/lib/libyesense_serial.so /home/ludan/old_ws/devel/lib/libyesense_serial.so
+/home/ludan/old_ws/devel/.private/yesense_serial/lib/pkgconfig/yesense_serial.pc /home/ludan/old_ws/devel/lib/pkgconfig/yesense_serial.pc
+/home/ludan/old_ws/devel/.private/yesense_serial/lib/yesense_serial/serial_example /home/ludan/old_ws/devel/lib/yesense_serial/serial_example
+/home/ludan/old_ws/devel/.private/yesense_serial/share/yesense_serial/cmake/yesense_serialConfig.cmake /home/ludan/old_ws/devel/share/yesense_serial/cmake/yesense_serialConfig.cmake
+/home/ludan/old_ws/devel/.private/yesense_serial/share/yesense_serial/cmake/yesense_serialConfig-version.cmake /home/ludan/old_ws/devel/share/yesense_serial/cmake/yesense_serialConfig-version.cmake

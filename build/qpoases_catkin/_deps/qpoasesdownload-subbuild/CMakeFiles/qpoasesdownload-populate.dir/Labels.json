@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/ludan/old_ws/build/qpoases_catkin/_deps/qpoasesdownload-subbuild/CMakeFiles/qpoasesdownload-populate"
+		},
+		{
+			"file" : "/home/ludan/old_ws/build/qpoases_catkin/_deps/qpoasesdownload-subbuild/CMakeFiles/qpoasesdownload-populate.rule"
+		},
+		{
+			"file" : "/home/ludan/old_ws/build/qpoases_catkin/_deps/qpoasesdownload-subbuild/CMakeFiles/qpoasesdownload-populate-complete.rule"
+		},
+		{
+			"file" : "/home/ludan/old_ws/build/qpoases_catkin/_deps/qpoasesdownload-subbuild/qpoasesdownload-populate-prefix/src/qpoasesdownload-populate-stamp/qpoasesdownload-populate-install.rule"
+		},
+		{
+			"file" : "/home/ludan/old_ws/build/qpoases_catkin/_deps/qpoasesdownload-subbuild/qpoasesdownload-populate-prefix/src/qpoasesdownload-populate-stamp/qpoasesdownload-populate-mkdir.rule"
+		},
+		{
+			"file" : "/home/ludan/old_ws/build/qpoases_catkin/_deps/qpoasesdownload-subbuild/qpoasesdownload-populate-prefix/src/qpoasesdownload-populate-stamp/qpoasesdownload-populate-download.rule"
+		},
+		{
+			"file" : "/home/ludan/old_ws/build/qpoases_catkin/_deps/qpoasesdownload-subbuild/qpoasesdownload-populate-prefix/src/qpoasesdownload-populate-stamp/qpoasesdownload-populate-update.rule"
+		},
+		{
+			"file" : "/home/ludan/old_ws/build/qpoases_catkin/_deps/qpoasesdownload-subbuild/qpoasesdownload-populate-prefix/src/qpoasesdownload-populate-stamp/qpoasesdownload-populate-patch.rule"
+		},
+		{
+			"file" : "/home/ludan/old_ws/build/qpoases_catkin/_deps/qpoasesdownload-subbuild/qpoasesdownload-populate-prefix/src/qpoasesdownload-populate-stamp/qpoasesdownload-populate-configure.rule"
+		},
+		{
+			"file" : "/home/ludan/old_ws/build/qpoases_catkin/_deps/qpoasesdownload-subbuild/qpoasesdownload-populate-prefix/src/qpoasesdownload-populate-stamp/qpoasesdownload-populate-build.rule"
+		},
+		{
+			"file" : "/home/ludan/old_ws/build/qpoases_catkin/_deps/qpoasesdownload-subbuild/qpoasesdownload-populate-prefix/src/qpoasesdownload-populate-stamp/qpoasesdownload-populate-test.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"qpoasesdownload-populate"
+		],
+		"name" : "qpoasesdownload-populate"
+	}
+}

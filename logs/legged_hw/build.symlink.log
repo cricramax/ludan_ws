@@ -1,0 +1,4 @@
+Symlinking /home/ludan/old_ws/devel/lib/liblegged_hw.so
+Symlinking /home/ludan/old_ws/devel/lib/pkgconfig/legged_hw.pc
+Symlinking /home/ludan/old_ws/devel/share/legged_hw/cmake/legged_hwConfig-version.cmake
+Symlinking /home/ludan/old_ws/devel/share/legged_hw/cmake/legged_hwConfig.cmake

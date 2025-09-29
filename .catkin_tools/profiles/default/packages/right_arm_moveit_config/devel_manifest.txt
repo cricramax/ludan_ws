@@ -1,0 +1,4 @@
+right_arm_moveit_config
+/home/ludan/old_ws/devel/.private/right_arm_moveit_config/lib/pkgconfig/right_arm_moveit_config.pc /home/ludan/old_ws/devel/lib/pkgconfig/right_arm_moveit_config.pc
+/home/ludan/old_ws/devel/.private/right_arm_moveit_config/share/right_arm_moveit_config/cmake/right_arm_moveit_configConfig.cmake /home/ludan/old_ws/devel/share/right_arm_moveit_config/cmake/right_arm_moveit_configConfig.cmake
+/home/ludan/old_ws/devel/.private/right_arm_moveit_config/share/right_arm_moveit_config/cmake/right_arm_moveit_configConfig-version.cmake /home/ludan/old_ws/devel/share/right_arm_moveit_config/cmake/right_arm_moveit_configConfig-version.cmake

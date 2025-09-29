@@ -1,0 +1,4 @@
+[35m[1mScanning dependencies of target simple_hybrid_joint_controller[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/simple_hybrid_joint_controller.dir/src/AllJointsHybridController.cpp.o[0m
+[100%] [32m[1mLinking CXX shared library /home/ludan/old_ws/devel/.private/simple_hybrid_joint_controller/lib/libsimple_hybrid_joint_controller.so[0m
+[100%] Built target simple_hybrid_joint_controller

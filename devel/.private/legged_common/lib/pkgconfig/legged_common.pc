@@ -1,0 +1,8 @@
+prefix=/home/ludan/old_ws/devel/.private/legged_common
+
+Name: legged_common
+Description: Description of legged_common
+Version: 0.0.0
+Cflags: -I/home/ludan/old_ws/src/legged_common/include
+Libs: -L${prefix}/lib 
+Requires: roscpp hardware_interface

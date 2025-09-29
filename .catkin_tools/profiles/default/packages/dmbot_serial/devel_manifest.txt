@@ -1,0 +1,13 @@
+dmbot_serial
+/home/ludan/old_ws/devel/.private/dmbot_serial/lib/libdmbot_serial.so /home/ludan/old_ws/devel/lib/libdmbot_serial.so
+/home/ludan/old_ws/devel/.private/dmbot_serial/lib/dmbot_serial/test_motor /home/ludan/old_ws/devel/lib/dmbot_serial/test_motor
+/home/ludan/old_ws/devel/.private/dmbot_serial/lib/python3/dist-packages/dmbot_serial/__init__.py /home/ludan/old_ws/devel/lib/python3/dist-packages/dmbot_serial/__init__.py
+/home/ludan/old_ws/devel/.private/dmbot_serial/lib/python3/dist-packages/dmbot_serial/cfg/__init__.py /home/ludan/old_ws/devel/lib/python3/dist-packages/dmbot_serial/cfg/__init__.py
+/home/ludan/old_ws/devel/.private/dmbot_serial/lib/python3/dist-packages/dmbot_serial/cfg/my_cfgConfig.py /home/ludan/old_ws/devel/lib/python3/dist-packages/dmbot_serial/cfg/my_cfgConfig.py
+/home/ludan/old_ws/devel/.private/dmbot_serial/lib/pkgconfig/dmbot_serial.pc /home/ludan/old_ws/devel/lib/pkgconfig/dmbot_serial.pc
+/home/ludan/old_ws/devel/.private/dmbot_serial/include/dmbot_serial/my_cfgConfig.h /home/ludan/old_ws/devel/include/dmbot_serial/my_cfgConfig.h
+/home/ludan/old_ws/devel/.private/dmbot_serial/share/dmbot_serial/cmake/dmbot_serialConfig-version.cmake /home/ludan/old_ws/devel/share/dmbot_serial/cmake/dmbot_serialConfig-version.cmake
+/home/ludan/old_ws/devel/.private/dmbot_serial/share/dmbot_serial/cmake/dmbot_serialConfig.cmake /home/ludan/old_ws/devel/share/dmbot_serial/cmake/dmbot_serialConfig.cmake
+/home/ludan/old_ws/devel/.private/dmbot_serial/share/dmbot_serial/docs/my_cfgConfig-usage.dox /home/ludan/old_ws/devel/share/dmbot_serial/docs/my_cfgConfig-usage.dox
+/home/ludan/old_ws/devel/.private/dmbot_serial/share/dmbot_serial/docs/my_cfgConfig.wikidoc /home/ludan/old_ws/devel/share/dmbot_serial/docs/my_cfgConfig.wikidoc
+/home/ludan/old_ws/devel/.private/dmbot_serial/share/dmbot_serial/docs/my_cfgConfig.dox /home/ludan/old_ws/devel/share/dmbot_serial/docs/my_cfgConfig.dox

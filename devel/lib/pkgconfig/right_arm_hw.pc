@@ -1,0 +1,1 @@
+/home/ludan/old_ws/devel/.private/right_arm_hw/lib/pkgconfig/right_arm_hw.pc

@@ -1,0 +1,1 @@
+/home/ludan/old_ws/devel/.private/yesense_imu/share/yesense_imu/cmake/yesense_imuConfig.cmake

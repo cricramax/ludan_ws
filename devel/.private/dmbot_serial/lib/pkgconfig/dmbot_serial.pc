@@ -1,0 +1,8 @@
+prefix=/home/ludan/old_ws/devel/.private/dmbot_serial
+
+Name: dmbot_serial
+Description: Description of dmbot_serial
+Version: 0.0.0
+Cflags: -I/home/ludan/old_ws/devel/.private/dmbot_serial/include -I/home/ludan/old_ws/src/dmbot_serial/include
+Libs: -L${prefix}/lib -ldmbot_serial
+Requires: roscpp rospy std_msgs

@@ -1,0 +1,1 @@
+/home/ludan/old_ws/devel/.private/dmbot_serial/lib/python3/dist-packages/dmbot_serial/cfg/__init__.py

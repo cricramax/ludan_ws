@@ -1,0 +1,23 @@
+<launch>
+  <!-- 右臂 MCU -->
+  <group ns="mcu_right">
+    <arg name="port" default="/dev/mcu_rightarm"/>
+    <arg name="baud" default="921600"/>
+    <include file="$(find simple_hybrid_joint_controller)/launch/bringup_real.launch">
+      <arg name="port" value="$(arg port)"/>
+      <arg name="baud" value="$(arg baud)"/>
+      <arg name="ns" value="/mcu_right"/>
+    </include>
+  </group>
+
+  <!-- 左臂 MCU -->
+  <group ns="mcu_left">
+    <arg name="port" default="/dev/mcu_neck"/>
+    <arg name="baud" default="921600"/>
+    <include file="$(find simple_hybrid_joint_controller)/launch/bringup_real.launch">
+      <arg name="port" value="$(arg port)"/>
+      <arg name="baud" value="$(arg baud)"/>
+      <arg name="ns" value="/mcu_left"/>
+    </include>
+  </group>
+</launch>

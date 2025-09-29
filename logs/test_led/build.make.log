@@ -1,0 +1,5 @@
+[35m[1mScanning dependencies of target pub_node[0m
+[ 33%] [32mBuilding CXX object CMakeFiles/pub_node.dir/src/test_led.cpp.o[0m
+[ 66%] [32mBuilding CXX object CMakeFiles/pub_node.dir/src/publish_node.cpp.o[0m
+[100%] [32m[1mLinking CXX executable /home/ludan/old_ws/devel/.private/test_led/lib/test_led/pub_node[0m
+[100%] Built target pub_node

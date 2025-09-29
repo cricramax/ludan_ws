@@ -1,0 +1,1 @@
+/home/ludan/old_ws/devel/.private/legged_dm_description/share/legged_dm_description/cmake/legged_dm_descriptionConfig.cmake

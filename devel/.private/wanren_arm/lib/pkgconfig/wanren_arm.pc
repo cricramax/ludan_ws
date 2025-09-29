@@ -1,0 +1,8 @@
+prefix=/home/ludan/old_ws/devel/.private/wanren_arm
+
+Name: wanren_arm
+Description: Description of wanren_arm
+Version: 1.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

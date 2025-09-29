@@ -1,0 +1,5 @@
+Symlinking /home/ludan/old_ws/devel/lib/libyesense_serial.so
+Symlinking /home/ludan/old_ws/devel/lib/pkgconfig/yesense_serial.pc
+Symlinking /home/ludan/old_ws/devel/lib/yesense_serial/serial_example
+Symlinking /home/ludan/old_ws/devel/share/yesense_serial/cmake/yesense_serialConfig.cmake
+Symlinking /home/ludan/old_ws/devel/share/yesense_serial/cmake/yesense_serialConfig-version.cmake

@@ -1,0 +1,1 @@
+/home/ludan/old_ws/devel/.private/legged_common/share/legged_common/cmake/legged_commonConfig.cmake

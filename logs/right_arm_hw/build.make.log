@@ -1,0 +1,4 @@
+[35m[1mScanning dependencies of target ftj_to_moveJ_bridge[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/ftj_to_moveJ_bridge.dir/src/ftj_to_moveJ_bridge.cpp.o[0m
+[100%] [32m[1mLinking CXX executable /home/ludan/old_ws/devel/.private/right_arm_hw/lib/right_arm_hw/ftj_to_moveJ_bridge[0m
+[100%] Built target ftj_to_moveJ_bridge

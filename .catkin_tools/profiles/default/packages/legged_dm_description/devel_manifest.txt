@@ -1,0 +1,4 @@
+legged_examples/legged_dm_description
+/home/ludan/old_ws/devel/.private/legged_dm_description/lib/pkgconfig/legged_dm_description.pc /home/ludan/old_ws/devel/lib/pkgconfig/legged_dm_description.pc
+/home/ludan/old_ws/devel/.private/legged_dm_description/share/legged_dm_description/cmake/legged_dm_descriptionConfig-version.cmake /home/ludan/old_ws/devel/share/legged_dm_description/cmake/legged_dm_descriptionConfig-version.cmake
+/home/ludan/old_ws/devel/.private/legged_dm_description/share/legged_dm_description/cmake/legged_dm_descriptionConfig.cmake /home/ludan/old_ws/devel/share/legged_dm_description/cmake/legged_dm_descriptionConfig.cmake
