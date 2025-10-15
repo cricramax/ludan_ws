@@ -1,0 +1,108 @@
+controller_list:
+  - name: left_arm_controller
+    action_ns: follow_joint_trajectory
+    type: FollowJointTrajectory
+    default: True
+    joints:
+      - LeftShoulderPitch
+      - LeftShoulderRoll
+      - LeftShoulderYaw
+      - LeftElbowPitch
+      - LeftElbowYaw
+      - LeftWristPitch
+      - LeftWristRoll
+  - name: right_arm_controller
+    action_ns: follow_joint_trajectory
+    type: FollowJointTrajectory
+    default: True
+    joints:
+      - RightShoulderPitch
+      - RightShoulderRoll
+      - RightShoulderYaw
+      - RightElbowPitch
+      - RightElbowYaw
+      - RightWristPitch
+      - RightWristRoll
+  - name: left_leg_controller
+    action_ns: follow_joint_trajectory
+    type: FollowJointTrajectory
+    default: True
+    joints:
+      - LeftLegPitch
+      - LeftLegRoll
+      - LeftLegYaw
+      - kneePitch
+      - AnklePitch
+      - AnkleRoll
+  - name: right_leg_controller
+    action_ns: follow_joint_trajectory
+    type: FollowJointTrajectory
+    default: True
+    joints:
+      - RightLegPitch
+      - RightLegRoll
+      - RightLegYaw
+      - RkneePitch
+      - RAnklePitch
+      - RAnkleRoll
+  - name: neck_controller
+    action_ns: follow_joint_trajectory
+    type: FollowJointTrajectory
+    default: True
+    joints:
+      - NeckRoll
+      - NeckPitch
+  - name: upper_body_controller
+    action_ns: follow_joint_trajectory
+    type: FollowJointTrajectory
+    default: True
+    joints:
+      - LeftShoulderPitch
+      - LeftShoulderRoll
+      - LeftShoulderYaw
+      - LeftElbowPitch
+      - LeftElbowYaw
+      - LeftWristPitch
+      - LeftWristRoll
+      - NeckRoll
+      - NeckPitch
+      - RightShoulderPitch
+      - RightShoulderRoll
+      - RightShoulderYaw
+      - RightElbowPitch
+      - RightElbowYaw
+      - RightWristPitch
+      - RightWristRoll
+  - name: whole_body_controller
+    action_ns: follow_joint_trajectory
+    type: FollowJointTrajectory
+    default: True
+    joints:
+      - LeftShoulderPitch
+      - LeftShoulderRoll
+      - LeftShoulderYaw
+      - LeftElbowPitch
+      - LeftElbowYaw
+      - LeftWristPitch
+      - LeftWristRoll
+      - NeckRoll
+      - NeckPitch
+      - RightShoulderPitch
+      - RightShoulderRoll
+      - RightShoulderYaw
+      - RightElbowPitch
+      - RightElbowYaw
+      - RightWristPitch
+      - RightWristRoll
+      - LeftLegPitch
+      - LeftLegRoll
+      - LeftLegYaw
+      - kneePitch
+      - AnklePitch
+      - AnkleRoll
+      - RightLegPitch
+      - RightLegRoll
+      - RightLegYaw
+      - RkneePitch
+      - RAnklePitch
+      - RAnkleRoll

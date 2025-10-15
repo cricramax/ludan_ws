@@ -1,0 +1,39 @@
+<launch>
+  <arg name="port" default="/dev/mcu_rightarm"/>
+  <arg name="baud" default="921600"/>
+  <arg name="ns" default=""/>
+  <arg name="joint_names" default="['leg_l1_joint','leg_l2_joint','leg_l3_joint','leg_l4_joint','leg_l5_joint','leg_l6_joint','leg_l7_joint','leg_r1_joint','leg_r2_joint','leg_r3_joint','leg_r4_joint','leg_r5_joint','leg_r6_joint','leg_r7_joint']"/>
+  <arg name="movej_joint_names" default="[]"/>
+  <arg name="flip_sign" default="false"/>
+
+  <arg name="default_kp" default="10.0"/>
+  <arg name="default_kd" default="0.0"/>
+  <arg name="default_vel" default="0.0"/>
+  <arg name="default_ff" default="0.0"/>
+  <param name="port" value="$(arg port)"/>
+  <param name="baud" value="$(arg baud)"/>
+
+  <!-- 硬件 bringup -->
+  <include file="$(find legged_dm_hw)/launch/legged_dm_hw.launch"/>
+
+  <!-- 控制器 -->
+  <rosparam param="joint_state_controller">
+    type: joint_state_controller/JointStateController
+    publish_rate: 100
+  </rosparam>
+
+  <rosparam param="all_joints_hjc">
+    type: simple_hjc/AllJointsHybridController
+    joints: $(arg joint_names)
+    moveJ_joint_names: $(arg movej_joint_names)
+    default_kp: $(arg default_kp)
+    default_kd: $(arg default_kd)
+    default_vel: $(arg default_vel)
+    default_ff:  $(arg default_ff)
+    flip_sign: $(arg flip_sign)
+  </rosparam>
+
+  <node pkg="controller_manager" type="spawner" name="spawner"
+        output="screen"
+        args="joint_state_controller all_joints_hjc --namespace=$(arg ns)"/>
+</launch>
